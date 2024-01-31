@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>FelixReads Podcasts</title>
+    <link>https://FelixReads.github.io/</link>
+    <language>en-us</language>
+    <description>AI TTS generated podcasts based on FelixReads email newsletters</description>
+    <ns0:subtitle>AI TTS generated podcasts based on FelixReads email newsletters</ns0:subtitle>
+    <ns0:summary>AI TTS generated podcasts based on FelixReads email newsletters</ns0:summary>
+    <ns0:author>Felix Gonzalez</ns0:author>
+    <ns0:owner>
+      <ns0:name>Felix Gonzalez</ns0:name>
+      <ns0:email>felixgonzalez09@gmail.com</ns0:email>
+    </ns0:owner>
+    <ns0:image href="https://JonathanGrant.github.io/podcasts/logo.jpeg"/>
+    <ns0:category text="Technology"/>
+    <ns0:explicit>no</ns0:explicit>
+
+  </channel>
+</rss>
