@@ -15,6 +15,12 @@
     <ns0:image href="https://JonathanGrant.github.io/podcasts/logo.jpeg"/>
     <ns0:category text="Technology"/>
     <ns0:explicit>no</ns0:explicit>
-
+    <item>
+      <title>[welcome@zoho.com] Welcome_to_Zoho_Mail</title>
+      <description>[welcome@zoho.com] Welcome_to_Zoho_Mail</description>
+      <pubDate>Wed, 31 Jan 2024 14:32:06 GMT</pubDate>
+      <enclosure url="https://FelixReads.github.io/podcasts/audio/[welcome@zoho.co16bf2a53-6f6e-45cc-a614-e24d89b238ff.mp3" type="audio/mp3" length="161325"/>
+      <guid>8b68a941-7364-47bc-940b-24929e292d87</guid>
+    </item>
   </channel>
 </rss>
