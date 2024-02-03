@@ -43,5 +43,12 @@
       <enclosure url="https://FelixReads.github.io/podcasts/audio/[felix_gonzalez]28c9e487-86e5-43a0-97d4-94af39cfeebd.mp3" type="audio/mp3" length="6868173"/>
       <guid>1e4f3f2a-c7e7-4be8-b8a1-bada5cea7d62</guid>
     </item>
+    <item>
+      <title>[Felix Gonzalez] Fwd__On_Dwarkesh_s_3rd_Podcast_with_Tyler_Cowen</title>
+      <description>[Felix Gonzalez] Fwd__On_Dwarkesh_s_3rd_Podcast_with_Tyler_Cowen</description>
+      <pubDate>Sat, 03 Feb 2024 01:09:22 GMT</pubDate>
+      <enclosure url="https://FelixReads.github.io/podcasts/audio/[felix_gonzalez]8f17e60c-2086-4283-8541-f1f085e44847.mp3" type="audio/mp3" length="9022221"/>
+      <guid>1f5c5ba2-c3ca-432f-b081-41276927cd1d</guid>
+    </item>
   </channel>
 </rss>
